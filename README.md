@@ -1,3 +1,6 @@
+![](https://img.shields.io/badge/Stability-EndOfLife-black.svg)
+
+This repository is [End of Life](https://github.com/packethost/standards/blob/master/end-of-life-statement.md) that this software is no longer supported nor maintained by Packet or its community.
 
 Nodepool is the underlying process within Zuul that handles the provisioning of compute resources for CI jobs. Primarily, Nodepool managed OpenStack virtual machines but does have the ability, through a driver interface, to support alternate compute sources. This repo is a proof of concept showcasing a Nodepool driver written to support management of bare metal hosts via the Packet Host API.
 
